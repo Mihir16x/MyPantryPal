@@ -6,7 +6,7 @@ Pantry Flow started as a team project for a UX design course. We took it from us
 
 ![Pantry Flow](docs/images/logo.png)
 
-**Team:** Mihir Karnani, Gabriel Scarpati
+**Team:** Mihir Karnani, Gabriel Scarpati, Joshua Vrana
 **Figma prototype:** [View the design](https://www.figma.com/design/chzLQSKX2ESotvlmTQMOa8/PantryFlow?node-id=0-1&p=f)
 
 ## The problem
